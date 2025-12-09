@@ -5,6 +5,7 @@ A new habit flutter app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<img width="1001" height="1188" alt="habit" src="https://github.com/user-attachments/assets/1af0d582-5fde-4601-9f36-73eb229d108a" />
 
 A few resources to get you started if this is your first Flutter project:
 
